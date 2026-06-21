@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TreadingPlateformApplication" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.zosh.TreadingPlateformApplication" />
+    <module name="treading-plateform" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
